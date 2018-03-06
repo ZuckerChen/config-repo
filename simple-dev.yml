@@ -1,11 +1,1 @@
-spring:
-  application:
-    name: simple-config
-
-server:
-  port: 9092
-
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://username:password@localhost:8761/eureka    # 指定注册中心的地址
+form: git-dev-2.0
