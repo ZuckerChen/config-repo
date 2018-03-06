@@ -10,7 +10,7 @@ pom：
 application.yml配置
 
     spring:
-      config:
+      application:
         name:
           configserver
 
