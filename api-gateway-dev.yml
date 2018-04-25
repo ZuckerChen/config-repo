@@ -2,4 +2,4 @@ zuul:
   routes:
     hello-service:
       path: /hello-service/**
-      serviceId: hello9093
+      serviceId: hello9092
